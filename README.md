@@ -1,5 +1,5 @@
 # Hi, I’m Marcos! Welcome to my GitHub page!
-<img src="octocat-1762298088725.png" min-width="400px" max-width="200px" width="300px" align="right" alt="Marcos's octocat">
+<img src="octocat-1762298088725.png" min-width="200px" max-width="200px" width="300px" align="right" alt="Marcos's octocat">
 
 <p align="left"> 
 I'm a recently graduated Computer Scientist from the Federal University of Technology – Paraná (UTFPR).
