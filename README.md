@@ -3,7 +3,7 @@
 
 <p align="left"> 
 I'm a recently graduated Computer Scientist from the Federal University of Technology – Paraná (UTFPR).
-My main interest areas are Data Science, Machine Learning, AI and backend development. Python was the door that introduced me to this world — and since then I've been constantly learning and building projects around data.
+My main interest areas are Data Science, Machine Learning, AI and Data Analysis. Python was the door that introduced me to this world — and since then I've been constantly learning and building projects around data.
 </p>
 
 <br><br>
