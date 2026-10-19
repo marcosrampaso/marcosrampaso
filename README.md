@@ -46,7 +46,7 @@ My main interest areas are Data Science, Machine Learning, AI and Data Analysis.
 
 ## Take a look on what I've done!
 <div style="display: inline-block;">
-<a href="https://github.com/mazner">
+<a href="https://github.com/marcosrampaso">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazner&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mazner&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
